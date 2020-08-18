@@ -1,1 +1,1 @@
-智能玩具1.0的后端代码,基于python的flask框架
+Smart toy 1.0 back-end code, based on Python flask framework.
